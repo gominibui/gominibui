@@ -1,9 +1,9 @@
 # 👋 Hi, I’m @gominibui
 
-I'm a Python/Django developer with a passion for building efficient, scalable web applications.
+I'm a Python/Django/FastAPI developer with a passion for building efficient, scalable web applications.
 
 ## 👀 I’m interested in
-- Web development with Django and other Python frameworks
+- Web development with Django/FastAPI and other Python frameworks
 - Backend architecture and API design
 - Data processing and analysis
 - DevOps and automation
