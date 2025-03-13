@@ -18,15 +18,24 @@ I'm a Python/Django/FastAPI developer with a passion for building efficient, sca
 - APIs for data-driven applications
 - Projects that focus on improving web performance and scalability
 
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gominibui&show_icons=true&theme=radical)
+
+## 🏆 Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=gominibui&theme=radical)
+
+## 📊 Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gominibui&layout=compact&theme=radical)
+
 ## 📫 How to reach me
 - Email: denislichka@gmail.com
-- LinkedIn: https://www.linkedin.com/in/denisnaumenko/
+- LinkedIn: [Denis Naumenko](https://www.linkedin.com/in/denisnaumenko/)
 
 ## 😄 Pronouns
 He/Him
 
 ## ⚡ Fun fact
-I love automating daily tasks and am always on the lookout for ways to optimize workflows with Python. In my free time, you can find me exploring new Django, FastAPI packages or experimenting with APIs!
+I love automating daily tasks and am always on the lookout for ways to optimize workflows with Python. In my free time, you can find me exploring new Django, FastAPI packages or experimenting with new technologies.
 
 ---
 
