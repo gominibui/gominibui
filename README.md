@@ -65,6 +65,3 @@ He/Him
 ### ⚡ Fun Fact
 I’m all about **building fast, reliable apps** and **automating the boring stuff**. In my free time, I explore new tech stacks, experiment with dev tooling, or try to break things (on purpose) to learn how they work.
 
----
-
-✨ _This is a special repository because its `README.md` file appears on my GitHub profile._ ✨
