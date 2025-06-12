@@ -54,7 +54,7 @@ I'm a **Software Developer** with a strong foundation in **Python/Django/FastAPI
 ---
 
 ### 📫 How to Reach Me
-- Email: denislichka@gmail.com  
+- Email: denys.naumenko.dev@gmail.com
 - LinkedIn: [Denis Naumenko](https://www.linkedin.com/in/denisnaumenko/)
 
 ---
